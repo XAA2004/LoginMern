@@ -3,7 +3,7 @@
 function RegisterPage() {
   return (
     <div>
-      Register Page
+      Register Pages
     </div>
   )
 }
